@@ -8,10 +8,6 @@
 
 I'm a passionate **Full-Stack Web Developer** with over **3 years of experience** in creating dynamic and responsive web applications. I specialize in using modern technologies to build seamless digital experiences.
 
-- 🌍 Based in [Your Location]
-- 🎓 Graduate in [Your Degree] from [Your University]
-- 💼 Currently working at [Your Company/Organization]
-
 ## 🛠️ Skills & Technologies
 
 **Front-End Development:**
@@ -36,28 +32,6 @@ I'm a passionate **Full-Stack Web Developer** with over **3 years of experience*
 
 - Stripe (Payment Integration)
 
-## 🖥️ Projects & Work
-
-Here are a few highlights from my recent work:
-
-### 🌟 [Project Name](https://github.com/yourusername/projectname)
-
-Description: A brief description of what this project is about, its purpose, and the technologies used.
-
-- **Tech Stack:** React, Node.js, Firebase
-- **Features:** Feature 1, Feature 2, Feature 3
-- [![GitHub Stars](https://img.shields.io/github/stars/yourusername/projectname?style=social)](https://github.com/yourusername/projectname/stargazers)
-
-### 🌟 [Another Project Name](https://github.com/yourusername/anotherprojectname)
-
-Description: A brief description of what this project is about, its purpose, and the technologies used.
-
-- **Tech Stack:** Next.js, Strapi, Stripe
-- **Features:** Feature 1, Feature 2, Feature 3
-- [![GitHub Stars](https://img.shields.io/github/stars/yourusername/anotherprojectname?style=social)](https://github.com/yourusername/anotherprojectname/stargazers)
-
-Feel free to explore more projects on my [GitHub profile](https://github.com/yourusername?tab=repositories).
-
 ## 🎯 Goals & Interests
 
 I'm constantly exploring new technologies and tools to enhance my skills. Currently, I'm focusing on:
@@ -70,15 +44,15 @@ I'm constantly exploring new technologies and tools to enhance my skills. Curren
 
 I'm always open to collaborating on exciting projects or discussing tech! Reach out to me via:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourtwitter)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhavyajain075)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:bhavyajain075@gmail.com)
+![Daily Dev Profile](https://img.shields.io/badge/Daily_Dev_Profile-%40yourusername-brightgreen?style=flat&logo=github&logoColor=white&link=https://app.daily.dev/bhavyajain075)
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BMJ-075&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BMJ-075&layout=compact&theme=radical)
 
 ## 📝 Recent Blog Posts
 
