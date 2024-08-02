@@ -50,7 +50,7 @@ I'm always open to collaborating on exciting projects or discussing tech! Reach 
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BMJ-075&show_icons=true&theme=radical)
+<!-- ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BMJ-075&show_icons=true&theme=radical) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BMJ-075&layout=compact&theme=radical)
 
