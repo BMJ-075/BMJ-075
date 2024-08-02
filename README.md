@@ -21,6 +21,7 @@ I'm a passionate **Full-Stack Web Developer** with over **3 years of experience*
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=light)](https://skillicons.dev#gh-light-mode-only)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
+
 **DevOps & Tools:**
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,azure,firebase,supabase&theme=light)](https://skillicons.dev#gh-light-mode-only)
