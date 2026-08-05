@@ -90,27 +90,6 @@ const bhavya = {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/BMJ-075">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BMJ-075&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C7EFF&icon_color=6C7EFF&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMJ-075&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C7EFF&text_color=C9D1D9&langs_count=10" />
-</a>
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BMJ-075&theme=tokyonight&hide_border=true&background=0D1117&ring=6C7EFF&fire=FF7A59&currStreakLabel=6C7EFF" alt="streak" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BMJ-075&bg_color=0D1117&color=6C7EFF&line=6C7EFF&point=FF7A59&area=true&hide_border=true&custom_title=Contribution%20Graph" width="98%" />
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
